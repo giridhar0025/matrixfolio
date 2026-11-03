@@ -2,6 +2,8 @@
 
 A Matrix / simulation-theory portfolio for **Pulichara Giridhar** — built as an inspectable system rather than a static resume. The site combines a live WebGL glyph field, scroll-driven narrative, a command shell, and a record of AI-assisted engineering practice.
 
+**Live:** <https://matrixfolio.vercel.app>
+
 ![Matrixfolio homepage](docs/screenshots/portfolio-home.png)
 
 ## What it does

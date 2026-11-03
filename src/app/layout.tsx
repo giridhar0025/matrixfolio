@@ -27,7 +27,7 @@ export const metadata: Metadata = {
   description:
     "Full-stack engineer building production systems across web, mobile, and API — plus the agent harnesses that make AI-generated code shippable.",
   applicationName: "matrixfolio",
-  authors: [{ name: "Pulichara Giridhar", url: "https://github.com/giridhar25" }],
+  authors: [{ name: "Pulichara Giridhar", url: "https://github.com/giridhar0025" }],
   creator: "Pulichara Giridhar",
   keywords: [
     "Pulichara Giridhar",
